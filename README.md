@@ -20,8 +20,8 @@ Runs the backend Server in the development mode .\
 Server is running on port 5000
 Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
 
-`cd backend` 
-`nodemon app.js`
+cd backend 
+nodemon app.js
 
 ### `yarn test`
 
