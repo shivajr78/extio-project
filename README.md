@@ -21,7 +21,7 @@ Server is running on port 5000
 Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
 
 cd backend 
-nodemon app.js
+`nodemon app.js`
 
 ### `yarn test`
 
